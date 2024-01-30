@@ -4,7 +4,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.prompts import PromptTemplate
 
 from langchain_community.chat_models import ChatOpenAI
-from langchain_openai import ChatOpenAI
+
 import os
 
 
